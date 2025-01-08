@@ -13,4 +13,4 @@ Both of the servers are intended to run on computers that are running the AI mod
 
 I got ~30-second generation times on the image generator using an RTX 3060. The LLM server can return a response in under 10 seconds on a CPU-only computer (no GPU available).
 
-More info at
+More info at https://djpfeif.com/portfolio/ai-for-streaming/
